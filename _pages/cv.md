@@ -9,56 +9,79 @@ redirect_from:
 
 {% include base_path %}
 
+SUMMARY
+======
+Passionate about machine learning and materials science, focusing on classical and quantum machine learning algorithms
+to accelerate the discovery of novel materials. Committed to advancing computational methods for impactful innovations
+in material design.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Arizona State University, 2026 (expected)
+* M.S. in Aerospace Engineering, Arizona State University, 2023
+* B.S. in Mechanical Engineering, Heritage Institute of Technology, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Associate
+  * August, 2023 - Present
+  * Arizona State University
+  * Conducting interdisciplinary research at the intersection of machine learning, quantum computing, and material discovery to develop computational tools for designing high-entropy  materials. My work involves applying quantum algorithms, neural networks, and generative AI approaches to enhance the screening of new materials, supporting advancements in material discovery.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    Key Focus Areas:
+    * Classical Machine Learning for Material Discovery
+    * Quantum Computing
+    * High-Entropy Alloy (HEA) Design using AI
+    * Computational Materials Science & Simulation
+  * Supervisor: Dr. Houlong Zhuang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Service Assistant
+  * August, 2022 - May, 2023
+  * Arizona State University
+  * Grader for MAE-215 Introduction to Programming in MATLAB
+    * Grade Assignment and Quizzes for the course.
+    * Build solutions for the quizzes and assignment assigned to the students
+
+* Graduate Service Assistant
+  * January, 2022 - January, 2023
+  * Arizona State University
+  * Working as a Teaching Aide/grader for MAE-242 Introduction to Fluid Mechanics.
+    * Take recitation classes, where I solve problems based on the concepts taught in the lecture.
+    * Conduct office hours for students to help with their doubt.
+    * Grade assignments and exam for the course.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Matlab
+  * Fortran
+* Simulation Package
+  * Vienna Ab-Initio Simulation Package (VASP)
+* Frameworks & Libraries
+  * PyTorch
+  * Scikit-learn
+  * Keras
+  * Qiskit
+* Data Analysis Libraries
+  * Pandas
+  * NumPy
+* Design/ Visualization Software
+  * Vesta 
+  * Solid Works 
+  * Creo 
+  * ANSYS 
+  * Abaqus
 
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* MRS Fall Meeting & Exhibit (2024)
+
