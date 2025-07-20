@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume](files/Yagnik_updated_resume.pdf)
+
 SUMMARY
 ======
 Passionate about machine learning and materials science, focusing on classical and quantum machine learning algorithms
