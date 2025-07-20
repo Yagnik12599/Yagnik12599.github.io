@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://github.com/Yagnik12599/Yagnik12599.github.io/files/Yagnik_updated_resume.pdf)
+[Resume](https://yagnik12599.github.io/files/Yagnik_updated_resume.pdf)
 
 SUMMARY
 ======
