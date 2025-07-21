@@ -63,6 +63,7 @@ Skills
   * Vienna Ab-Initio Simulation Package (VASP)
 * Frameworks & Libraries
   * PyTorch
+  * TensorFlow
   * Scikit-learn
   * Keras
   * Qiskit
