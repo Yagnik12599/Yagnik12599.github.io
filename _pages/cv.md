@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://yagnik12599.github.io/files/Yagnik_updated_resume.pdf)
+[Click here to download my full resume (PDF)](https://yagnik12599.github.io/files/Yagnik_updated_resume.pdf)
 
 SUMMARY
 ======
@@ -23,7 +23,7 @@ Education
 * M.S. in Aerospace Engineering, Arizona State University - Tempe, AZ, USA, 2023
 * B.S. in Mechanical Engineering, Heritage Institute of Technology - Kolkata, India, 2021
 
-Work experience
+Work Experience
 ======
 * Graduate Research Associate
   * August, 2023 - Present
