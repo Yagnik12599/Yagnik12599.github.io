@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yagnik's Homepage"
+title                    : "Yagnik Bandyopadhyay"
 title_separator          : "-"
 name                     : &name "Yagnik Bandyopadhyay"
 description              : &description "personal description"
