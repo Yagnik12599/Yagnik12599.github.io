@@ -23,6 +23,21 @@ Education
 * M.S. in Aerospace Engineering, Arizona State University - Tempe, AZ, USA, 2023
 * B.S. in Mechanical Engineering, Heritage Institute of Technology - Kolkata, India, 2021
 
+Research Experience
+======
+* Visiting Researcher – Generative AI for Electrochemistry
+  * Fall 2025
+  * University of California, Los Angeles (UCLA) - Los Angeles, CA, USA
+  * Participated in a collaborative research program focused on accelerating molecular dynamics simulations using generative AI models for electrochemistry applications. Developed and benchmarked autoregressive and diffusion-based approaches for generating bulk water molecular structures from MD trajectories, working alongside an international team of researchers.
+  * [Link to the full report](https://www.ipam.ucla.edu/reports/white-paper-bridging-the-gap-transitioning-from-deterministic-to-stochastic-interaction-modeling-in-electrochemistry/)
+    Key Focus Areas:
+    - Generative AI for Molecular Dynamics Acceleration
+    - Autoregressive Models (MAP with 3D PixelCNN)
+    - Diffusion Models for Molecular Structure Generation
+    - Physics-Informed Machine Learning
+    - Computational Electrochemistry
+  Collaborators: Jirui Jin, Dr. Mingjie Liu, Dr. Richard Hennig, Dr. Clotilde Cucinotta, Dr. Joerg Neugebauer
+
 Work Experience
 ======
 * Graduate Research Associate
